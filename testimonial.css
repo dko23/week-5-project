@@ -1,0 +1,17 @@
+body{
+    font-family: 'Mukta', sans-serif;
+}
+
+.test{
+    margin-top: 3rem;
+}
+.portrait{
+    height: 100px;
+    width: 100px;
+    object-fit:cover;
+}
+.form{
+    height:350px;
+    width: 500px;
+    margin-top: 20px;
+}
